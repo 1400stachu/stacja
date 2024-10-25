@@ -1,0 +1,36 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc
+}
+.logo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow' , 'Arial', sans-serif;
+    background-color: darkorange;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    margin-left: 5px;
+    font-size: 50px;
+}
+#left {
+    width: 22%;
+    float: left;
+    height: 940px;
+    margin-left: 5px;
+}
+#right {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', sans-serif;
+    width: 75%;
+    float: right;
+    height: 840px;
+    background-color: gainsboro;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    font-size: 50px;
+}
